@@ -4,7 +4,12 @@ exports[`Pruebas en GifGridItem debe de mostrar el componente correctamente 1`] 
 <div
   className="card animate__animated animate__backInDown"
 >
-  <img />
-  <p />
+  <img
+    alt="Un titulo"
+    src="https://google.com.mx"
+  />
+  <p>
+    Un titulo
+  </p>
 </div>
 `;
